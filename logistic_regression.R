@@ -70,12 +70,3 @@ newdata <- data.frame(x1 = mean(Norway_NO2$x1), x2 = mean(Norway_NO2$x2),
                       x4 = mean(Norway_NO2$x4), x5 = mean(Norway_NO2$x5),
                       x6 = mean(Norway_NO2$x6), x7 = mean(Norway_NO2$x7))
 predict(lmmulti,newdata , se.fit = TRUE, interval = "confidence")
-
-
-
-
-
-
-
-
-
