@@ -6,7 +6,7 @@ The repository contains five assignments according to the following structure:
 
 ### 2- Regularized regression.
 
-#### 3- Linear mixed models.
+### 3- Linear mixed models.
 
 ### 4- General additive models (GAMs).
 
