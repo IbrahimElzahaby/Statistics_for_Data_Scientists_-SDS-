@@ -22,7 +22,13 @@ The repository contains five tasks according to the following structure:
     
 Brief explaination about the data:
 
-    Botrytis cinerea is a pathogen that can infect beans (Phaseolus vulgarus). One expects that the damage is more severe in plants that are weakened due to ozone-gas. To investigate this, 20 days old plants of 3 cultivars (Strat, Pros, and Lit) are taken and given an ozone-treatment with concentration 0, 120, 180 or 270 ppm. For each concentration 30 plants of each cultivar were used. Subsequently each plant was inoculated with botrytis and after a few days it was observed if a plant was infected or not. The data can be found in the file [botrytis.csv](https://github.com/IbrahimElzahaby/Statistics_for_Data_Scientists_-SDS-/blob/b72f36e346b84e380502bfcbf1a9bffe4285d323/logistic_regression/botrytis.csv).
+Botrytis cinerea is a pathogen that can infect beans (Phaseolus vulgarus). One expects that 
+the damage is more severe in plants that are weakened due to ozone-gas. To investigate this, 
+20 days old plants of 3 cultivars (Strat, Pros, and Lit) are taken and given an 
+ozone-treatment with concentration 0, 120, 180 or 270 ppm. For each concentration 30 plants of 
+each cultivar were used. Subsequently each plant was inoculated with botrytis and after a few 
+days it was observed if a plant was infected or not. The data can be found in the file 
+[botrytis.csv](https://github.com/IbrahimElzahaby/Statistics_for_Data_Scientists_-SDS-/blob/b72f36e346b84e380502bfcbf1a9bffe4285d323/logistic_regression/botrytis.csv).
 
 
 ### 2- Regularized regression.
@@ -32,7 +38,12 @@ model with a good fit using cross validation, regularized regression and lasso r
 
 Brief explaination about the dataset: 
 
-    The dataset in this exercise consists of ash content (in percentages) and fluorescence spectra from 324.5 to 560.0 nm of 265 samples of sugar. Ash content of refined granulated sugar must not exceed 0.015% by most standards. Ash content can be reduced by maintaining proper filtration, sufficient washing during centrifugation of the sugar, and proper handling of the sugar during drying and screening. The data are in the file [SugarData.Rdata](https://github.com/IbrahimElzahaby/Statistics_for_Data_Scientists_-SDS-/blob/de266842554fdf70f1886d60145c4f58b3021669/regularized_regression/SugarData.Rdata).
+The dataset in this exercise consists of ash content (in percentages) and fluorescence spectra 
+from 324.5 to 560.0 nm of 265 samples of sugar. Ash content of refined granulated sugar must 
+not exceed 0.015% by most standards. Ash content can be reduced by maintaining proper 
+filtration, sufficient washing during centrifugation of the sugar, and proper handling of the 
+sugar during drying and screening. The data are in the file 
+[SugarData.Rdata](https://github.com/IbrahimElzahaby/Statistics_for_Data_Scientists_-SDS-/blob/de266842554fdf70f1886d60145c4f58b3021669/regularized_regression/SugarData.Rdata).
 
 
 ### 3- Linear mixed models.
@@ -41,7 +52,15 @@ In [Assignment 3](https://github.com/IbrahimElzahaby/Statistics_for_Data_Scienti
 
 Brief explaination about the experiment:
 
-    experiment to investigate the influence of two levels of feed ration on the growth of animals. It is also investigated whether the feed ration have similar effect for males and females. In setting the experiment, 24 animals were selected from 12 representative litters. Pairs of 6 males and 6 females were randomly selected from the representatives and two feed ration levels are randomly assigned to the pairs making the design a split-plot. The growth per animal over a fixed period of time is predicted using the feed ration and sex level variables. Since the representatives are from the same parent, this introduces dependence in the pair variable and thus the choice for mixed models. Summary of [data](https://github.com/IbrahimElzahaby/Statistics_for_Data_Scientists_-SDS-/blob/4adaa52b5a0548e731ae9901c496d35d05197d00/linear_mixed_models/DATARationSplitPlot.txt) shows the mean growth of animal is 31.45. 
+experiment to investigate the influence of two levels of feed ration on the growth of    
+animals. It is also investigated whether the feed ration have similar effect for males and 
+females. In setting the experiment, 24 animals were selected from 12 representative litters. 
+Pairs of 6 males and 6 females were randomly selected from the representatives and two feed 
+ration levels are randomly assigned to the pairs making the design a split-plot. The growth 
+per animal over a fixed period of time is predicted using the feed ration and sex level 
+variables. Since the representatives are from the same parent, this introduces dependence in 
+the pair variable and thus the choice for mixed models. Summary of 
+[data](https://github.com/IbrahimElzahaby/Statistics_for_Data_Scientists_-SDS-/blob/4adaa52b5a0548e731ae9901c496d35d05197d00/linear_mixed_models/DATARationSplitPlot.txt) shows the mean growth of animal is 31.45. 
 
 
 ### 4- General additive models (GAMs).
