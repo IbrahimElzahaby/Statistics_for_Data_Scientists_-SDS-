@@ -65,7 +65,10 @@ the pair variable and thus the choice for mixed models. Summary of
 
 ### 4- General additive models (GAMs).
 
-[Assignment 4](https://github.com/IbrahimElzahaby/Statistics_for_Data_Scientists_-SDS-/tree/de266842554fdf70f1886d60145c4f58b3021669/general_additive_models_(GAMs) focused on applying generalized additive models (GAMs) for predicting grain number in a specific maize hybrid. Our analysis focused on a single maize hybrid grown in 25 different environments(observations) under 14 different environmental characterizations(variables).
+[Assignment4](https://github.com/IbrahimElzahaby/Statistics_for_Data_Scientists_-SDS-/tree/de266842554fdf70f1886d60145c4f58b3021669/general_additive_models_(GAMs) focused on applying generalized additive 
+models (GAMs) for predicting grain number in a specific maize hybrid. Our analysis focused on 
+a single maize hybrid grown in 25 different environments(observations) under 14 different 
+environmental characterizations(variables).
 
 
 ### 5- Trre-based methods.
